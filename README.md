@@ -10,7 +10,7 @@ Elysium 整合包（Minecraft 1.21.1 / NeoForge）的社区汉化资源包。
 
 ## 安装
 
-1. 下载 [Releases](../../releases) 中的 `PyreZ的汉化资源包.zip`
+1. 下载 [Releases](../../releases) 页面中最新的资源包 zip
 2. 放入 `.minecraft/resourcepacks/` 目录
 3. 游戏内「选项 → 资源包」启用，按 `F3+T` 重载（或重启游戏）
 
