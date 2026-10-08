@@ -1,0 +1,13 @@
+{
+  "corpsecurioscompat.configuration.title": "%s 配置",
+  "corpsecurioscompat.configuration.general": "通用",
+  "corpsecurioscompat.configuration.general.tooltip": "通用设置",
+  "corpsecurioscompat.configuration.blacklisted_items": "黑名单物品",
+  "corpsecurioscompat.configuration.blacklisted_items.tooltip": "不应转移到饰品槽的物品（格式：'模组ID:物品ID'）",
+  "corpsecurioscompat.configuration.transfer_cursed_items": "转移被诅咒的物品",
+  "corpsecurioscompat.configuration.transfer_cursed_items.tooltip": "被诅咒的物品是否应转移回饰品槽（true = 转移被诅咒物品，false = 不转移）",
+  "corpsecurioscompat.configuration.general.blacklisted_items": "黑名单物品",
+  "corpsecurioscompat.configuration.general.blacklisted_items.tooltip": "不应转移到饰品槽的物品（格式：'模组ID:物品ID'）",
+  "corpsecurioscompat.configuration.general.transfer_cursed_items": "转移被诅咒的物品",
+  "corpsecurioscompat.configuration.general.transfer_cursed_items.tooltip": "被诅咒的物品是否应转移回饰品槽（true = 转移被诅咒物品，false = 不转移）"
+}

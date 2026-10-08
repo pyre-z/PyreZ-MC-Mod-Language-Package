@@ -1,0 +1,9 @@
+{
+  "gui.showercore.filter.bath_cores": "洗浴核心",
+  "gui.showercore.filter.shower_heads": "花洒",
+  "gui.showercore.filter.bathtubs": "浴缸",
+  "gui.showercore.filter.clawfoot_bathtubs": "独立式浴缸",
+  "gui.showercore.filter.accessories": "配件",
+  "gui.showercore.filter.scroll_up": "上一分类",
+  "gui.showercore.filter.scroll_down": "下一分类"
+}

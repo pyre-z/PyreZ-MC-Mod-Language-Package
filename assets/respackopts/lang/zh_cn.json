@@ -1,0 +1,23 @@
+{
+  "respackopts.loadFailed": "加载资源包失败",
+  "respackopts.loadError": "资源包配置存在问题。请查看游戏日志",
+  "respackopts.configure": "配置",
+  "respackopts.jfconfig.debugCommands": "调试命令",
+  "respackopts.jfconfig.debugLogs": "调试日志",
+  "respackopts.jfconfig.debugLogs.tooltip": "记录一些对调试资源包或模组本身有用的信息。（需要重启）",
+  "respackopts.jfconfig.generateNames": "生成名称",
+  "respackopts.jfconfig.generateNames.tooltip": "当资源包未提供名称时自动生成",
+  "respackopts.jfconfig.validationLayer": "验证层",
+  "respackopts.jfconfig.validationLayer.tooltip": "启用验证层以自动检测某些类型的问题",
+  "respackopts.jfconfig.ioLogs": "IO 日志",
+  "respackopts.jfconfig.ioLogs.tooltip": "记录每次资源访问。警告：这会导致日志文件变得巨大！",
+  "respackopts.invalid": "无效值",
+  "respackopts.dumpSucceeded": "已成功将资源转储到 %s",
+  "respackopts.dumpFailed": "无法转储请求的资源，详情请查看日志",
+  "respackopts.reloadSucceeded": "已成功重新加载资源和数据",
+  "respackopts.reloadFailed": "无法重新加载所有资源，详情请查看日志",
+  "respackopts.versionText": "版本 %s 使用 respackopts 元版本 %s",
+  "respackopts.invalidId": "无效的标识符",
+  "respackopts.snippet.success": "已执行代码片段，结果：%s",
+  "respackopts.snippet.failed": "无法执行代码片段：%s"
+}

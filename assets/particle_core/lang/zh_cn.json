@@ -1,0 +1,23 @@
+{
+  "particle_core.particle_core_config": "粒子核心",
+  "particle_core.particle_core_config.OTHER_PLAYER": "其他玩家的粒子",
+  "particle_core.particle_core_config.MOBS": "生物粒子",
+  "particle_core.particle_core_config.NO_CULLING": "不剔除",
+  "particle_core.particle_core_config.AGGRESSIVE": "激进",
+  "particle_core.particle_core_config.BOUNDING_BOX": "包围盒",
+  "particle_core.particle_core_config.maxParticlesPerSheet": "最大粒子数量",
+  "particle_core.particle_core_config.particleRenderDistanceMultiplier": "粒子渲染距离",
+  "particle_core.particle_core_config.asynchronousTicking": "异步粒子刻",
+  "particle_core.particle_core_config.cullingBlacklist": "粒子剔除黑名单",
+  "particle_core.particle_core_config.cullingBehavior": "剔除行为",
+  "particle_core.particle_core_config.OTHER_PLAYER.desc": "其他玩家（不是你）发出的药水粒子将被禁用",
+  "particle_core.particle_core_config.MOBS.desc": "非玩家生物发出的药水粒子将被禁用",
+  "particle_core.particle_core_config.NO_CULLING.desc": "完全禁用粒子剔除。除非必要，不推荐。",
+  "particle_core.particle_core_config.AGGRESSIVE.desc": "以粒子中点进行剔除。性能最佳，但会剔除恰好刚进入画面（未过半）的粒子。这种情况很难察觉；如果你觉得能看出来，请改用“包围盒”。",
+  "particle_core.particle_core_config.BOUNDING_BOX.desc": "以粒子包围盒的边缘进行剔除。性能提升不错，还能缓解粒子在屏幕边缘被裁切的问题。",
+  "particle_core.particle_core_config.maxParticlesPerSheet.desc": "§6影响：中等§r\n\n[取值 0 到约 20 亿] 设置一次最多可生成多少粒子。默认为 16,384。",
+  "particle_core.particle_core_config.particleRenderDistanceMultiplier.desc": "§6影响：中等§r\n\n[取值 0.1 到 1.0] 粒子渲染距离的倍率，以方块渲染距离为基准。默认 1（完整渲染距离）。\n\n示例：设为 0.5 时，在 12 区块渲染距离下粒子只会渲染 6 区块远。",
+  "particle_core.particle_core_config.asynchronousTicking.desc": "§6影响：中等§r\n\n[true 或 false] 为 true（默认）时，粒子将在异步线程上刻（不在客户端主循环中）。这可能造成不稳定。\n\n若出现不稳定，Particle Core 会尝试自动禁用此项；若无法自动禁用，请手动关闭。\n\n当粒子数量较低时，无论此设置如何，Particle Core 都会改为同步刻，以免浪费异步开销。",
+  "particle_core.particle_core_config.cullingBlacklist.desc": "§3影响：非性能§r\n\n应被剔除忽略的粒子。这可以避免某些粒子在剔除（尤其是激进剔除）下表现异常。\n\n特别地，若使用激进剔除，超大粒子很适合加入黑名单。",
+  "particle_core.particle_core_config.cullingBehavior.desc": "§c影响：高§r\n\nParticle Core 如何剔除粒子。禁用此项会对性能产生较大影响。"
+}

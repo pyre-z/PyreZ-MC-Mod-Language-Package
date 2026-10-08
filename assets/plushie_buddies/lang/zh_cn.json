@@ -1,0 +1,13 @@
+{
+  "itemgroup.plushie": "毛绒玩偶",
+  "itemgroup.sw_plushie": "星球大战玩偶",
+  "container.plushie_buddies.workbench": "缝纫机",
+  "block.plushie_buddies.workbench": "缝纫机",
+  "item.plushie_buddies.thread": "线",
+  "item.plushie_buddies.stuffing": "填充物",
+  "item.plushie_buddies.fabric": "布料",
+  "item.plushie_buddies.sewing_needle": "缝纫针",
+  "block.plushie_buddies.plushie_dan_rolo": "丹·罗洛玩偶",
+  "block.plushie_buddies.plushie_chewie": "楚巴卡玩偶",
+  "block.plushie_buddies.plushie_storm_soldier": "风暴兵玩偶"
+}

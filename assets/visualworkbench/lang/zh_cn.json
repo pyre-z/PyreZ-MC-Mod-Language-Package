@@ -1,0 +1,11 @@
+{
+  "visualworkbench.configuration.title": "%s 配置",
+  "visualworkbench.configuration.rotate_ingredients": "旋转合成材料",
+  "visualworkbench.configuration.rotate_ingredients.tooltip": "让工作台内的物品始终朝向最近的玩家。",
+  "visualworkbench.configuration.flat_rendering": "平铺渲染",
+  "visualworkbench.configuration.flat_rendering.tooltip": "让工作台内的物品平放在台面上，而不是悬浮在上方。",
+  "visualworkbench.configuration.render_result": "渲染合成结果",
+  "visualworkbench.configuration.render_result.tooltip": "在渲染工作台内容物的基础上，额外渲染合成结果。",
+  "visualworkbench.configuration.convert_vanilla_workbench_when_interacting": "交互时转换原版工作台",
+  "visualworkbench.configuration.convert_vanilla_workbench_when_interacting.tooltip": "剩余的原版工作台在被尝试使用时会自动转换。"
+}

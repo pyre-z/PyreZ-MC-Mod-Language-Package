@@ -1,0 +1,6 @@
+{
+  "tooltip.sophisticatedcore.linked_storage.primary_named": "%s（%s）",
+  "tooltip.sophisticatedcore.linked_storage.secondary_named": "%s（%s）",
+  "gui.sophisticatedcore.upgrades.tank.contents_tooltip": "%s mB/%s mB",
+  "gui.sophisticatedcore.upgrades.battery.contents_tooltip": "%s FE/%s FE"
+}
